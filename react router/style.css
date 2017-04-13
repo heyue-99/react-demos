@@ -79,7 +79,7 @@ form .submit{
 	box-shadow: 0 1px 3px rgba(0, 0, 0, 0.5);
 }
 .bac{
-	background-image: url(./bc.jpg);
+	background-image: url(bc.jpg);
 	width: 100%;
 	height: 210px;
 	margin-bottom: 37%;
@@ -131,7 +131,7 @@ li a{
 	margin: 10% auto;
 }
 .img{
-	background-image: url(./circle.svg); 
+	background-image: url(circle.svg); 
 	width: 300px;
 	height: 300px;
 	margin: 20px auto;
