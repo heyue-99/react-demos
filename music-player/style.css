@@ -11,8 +11,8 @@ body{
 }
 .img{
 	background-image: url(circle.svg); 
-	width: 200px;
-	height: 200px;
+	width: 300px;
+	height: 300px;
 	margin: 20px auto;
 	animation: rotate 5s linear infinite;
     animation-play-state: paused;
