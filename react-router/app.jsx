@@ -4,6 +4,12 @@ import ListTodo from 'weiboform.jsx';
 import Home from 'home.jsx';
 import Music from 'music.jsx'
 
+ var { Router,
+       Route,
+       hashHistory,
+       IndexRoute
+     } = ReactRouter;
+
 ReactDOM.render((
     <Router history={hashHistory}>
         <Route path="/" component={App}>
