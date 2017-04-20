@@ -1,9 +1,3 @@
-import App from 'test.jsx';
-import TodoList from 'todolist.jsx';
-import ListTodo from 'weiboform.jsx';
-import Home from 'home.jsx';
-import Music from 'music.jsx'
-
  var { Router,
        Route,
        hashHistory,
